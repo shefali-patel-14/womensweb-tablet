@@ -433,6 +433,17 @@ footer .fa-solid{
         border-radius: 20px;
         background-color: #f7eeeedd;
     }
+    
+    img {
+        animation: fadeIn 3s;
+      }
+      
+     @keyframes fadeIn {
+        0% { opacity: 0; 
+        }
+        100% { opacity: 1; 
+        }
+    }
 
    
 }
