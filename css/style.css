@@ -396,26 +396,6 @@ footer .fa-solid{
             }
         }
 
-        main div:nth-of-type(odd) img{
-            border: solid 8px #141d20;
-            border-radius: 20px;
-            margin-bottom: 20px;
-            }
-        
-        main div:nth-of-type(even) img{
-            border: solid 8px #F05C5E;
-            border-radius: 20px;
-            margin-bottom: 20px;
-            }
-            .bgimage img{
-                width: 800px;
-                display: block;
-                margin: auto;
-                border: solid 8px #141d20;
-                padding: 10px;
-                border-radius: 20px;
-               }
-
     }
 
 
@@ -454,26 +434,7 @@ footer .fa-solid{
         background-color: #f7eeeedd;
     }
 
-    main div:nth-of-type(odd) img{
-        border: dashed 8px #141d20;
-        border-radius: 20px;
-        margin-bottom: 20px;
-        }
-    
-    main div:nth-of-type(even) img{
-        border: dashed 8px #F05C5E;
-        border-radius: 20px;
-        margin-bottom: 20px;
-        }
-    
-        .bgimage img{
-            width: 800px;
-            display: block;
-            margin: auto;
-            border: dashed 8px #141d20;
-            padding: 10px;
-            border-radius: 20px;
-           }
+   
 }
 
 
