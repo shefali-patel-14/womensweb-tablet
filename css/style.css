@@ -177,6 +177,12 @@ transform: scaleY(0);
 transform: rotate(-45deg);
 }
 
+.audio-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 
    
 h1{
